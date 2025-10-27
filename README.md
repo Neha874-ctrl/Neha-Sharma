@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm [Your Name]
+# 👋 Hello there! I'm NEHA SHARMA
 
 ### 💻 Full-Stack Developer | Machine Learning Enthusiast
 
